@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zCT2Z8wxA6K4honE5s1Aw5CMJHGyj5ss7a7O1NS7EWU=",
+  "Hash": "O27ahCRTa3jwCYg/E7SazEsX+T3gfv9cOYfv8JOzOB0=",
   "Source": "CourseWork",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "4ldg3dm0fl",
-      "Integrity": "OMCeL1b9IBXujug2PnnJFUYL167twasvsp4PltDMk1Q=",
+      "Fingerprint": "13i4txmv3e",
+      "Integrity": "jbXJY6wcUsNXUyaamduxNmoXFUbEmlZKskyfpbVJgBU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Study_Material\\Islington\\5th_sem\\Application_Development\\CourseWork\\CourseWork\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\CourseWork.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "4ldg3dm0fl",
-      "Integrity": "OMCeL1b9IBXujug2PnnJFUYL167twasvsp4PltDMk1Q=",
+      "Fingerprint": "13i4txmv3e",
+      "Integrity": "jbXJY6wcUsNXUyaamduxNmoXFUbEmlZKskyfpbVJgBU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Study_Material\\Islington\\5th_sem\\Application_Development\\CourseWork\\CourseWork\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\CourseWork.bundle.scp.css"
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "p059xd490i",
-      "Integrity": "V+msTiv/fFvGrDCcPAPyeR9M7iAfKhapt4Fd8QacNUc=",
+      "Fingerprint": "uifo3kk1v9",
+      "Integrity": "amhuW6j1B2Tnc4dwS25PTtgvPBCs76XirICFv+omSmI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -166,7 +166,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "CourseWork.4ldg3dm0fl.bundle.scp.css",
+      "Route": "CourseWork.13i4txmv3e.bundle.scp.css",
       "AssetFile": "D:\\Study_Material\\Islington\\5th_sem\\Application_Development\\CourseWork\\CourseWork\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\CourseWork.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -176,7 +176,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5483"
+          "Value": "7322"
         },
         {
           "Name": "Content-Type",
@@ -184,11 +184,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OMCeL1b9IBXujug2PnnJFUYL167twasvsp4PltDMk1Q=\""
+          "Value": "\"jbXJY6wcUsNXUyaamduxNmoXFUbEmlZKskyfpbVJgBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:34:15 GMT"
+          "Value": "Wed, 15 Jan 2025 17:51:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -198,7 +198,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4ldg3dm0fl"
+          "Value": "13i4txmv3e"
         },
         {
           "Name": "label",
@@ -206,12 +206,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OMCeL1b9IBXujug2PnnJFUYL167twasvsp4PltDMk1Q="
+          "Value": "sha256-jbXJY6wcUsNXUyaamduxNmoXFUbEmlZKskyfpbVJgBU="
         }
       ]
     },
     {
-      "Route": "CourseWork.4ldg3dm0fl.styles.css",
+      "Route": "CourseWork.13i4txmv3e.styles.css",
       "AssetFile": "D:\\Study_Material\\Islington\\5th_sem\\Application_Development\\CourseWork\\CourseWork\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\CourseWork.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -221,7 +221,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5483"
+          "Value": "7322"
         },
         {
           "Name": "Content-Type",
@@ -229,11 +229,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OMCeL1b9IBXujug2PnnJFUYL167twasvsp4PltDMk1Q=\""
+          "Value": "\"jbXJY6wcUsNXUyaamduxNmoXFUbEmlZKskyfpbVJgBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:34:15 GMT"
+          "Value": "Wed, 15 Jan 2025 17:51:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -243,7 +243,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4ldg3dm0fl"
+          "Value": "13i4txmv3e"
         },
         {
           "Name": "label",
@@ -251,7 +251,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OMCeL1b9IBXujug2PnnJFUYL167twasvsp4PltDMk1Q="
+          "Value": "sha256-jbXJY6wcUsNXUyaamduxNmoXFUbEmlZKskyfpbVJgBU="
         }
       ]
     },
@@ -266,7 +266,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5483"
+          "Value": "7322"
         },
         {
           "Name": "Content-Type",
@@ -274,11 +274,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OMCeL1b9IBXujug2PnnJFUYL167twasvsp4PltDMk1Q=\""
+          "Value": "\"jbXJY6wcUsNXUyaamduxNmoXFUbEmlZKskyfpbVJgBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:34:15 GMT"
+          "Value": "Wed, 15 Jan 2025 17:51:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -288,7 +288,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OMCeL1b9IBXujug2PnnJFUYL167twasvsp4PltDMk1Q="
+          "Value": "sha256-jbXJY6wcUsNXUyaamduxNmoXFUbEmlZKskyfpbVJgBU="
         }
       ]
     },
@@ -303,7 +303,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5483"
+          "Value": "7322"
         },
         {
           "Name": "Content-Type",
@@ -311,11 +311,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OMCeL1b9IBXujug2PnnJFUYL167twasvsp4PltDMk1Q=\""
+          "Value": "\"jbXJY6wcUsNXUyaamduxNmoXFUbEmlZKskyfpbVJgBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:34:15 GMT"
+          "Value": "Wed, 15 Jan 2025 17:51:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -325,7 +325,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OMCeL1b9IBXujug2PnnJFUYL167twasvsp4PltDMk1Q="
+          "Value": "sha256-jbXJY6wcUsNXUyaamduxNmoXFUbEmlZKskyfpbVJgBU="
         }
       ]
     },
@@ -352,7 +352,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:24:30 GMT"
+          "Value": "Wed, 15 Jan 2025 10:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -389,7 +389,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:24:30 GMT"
+          "Value": "Wed, 15 Jan 2025 10:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -434,7 +434,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:24:30 GMT"
+          "Value": "Wed, 15 Jan 2025 10:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -479,7 +479,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:24:30 GMT"
+          "Value": "Wed, 15 Jan 2025 10:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -516,7 +516,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:24:30 GMT"
+          "Value": "Wed, 15 Jan 2025 10:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -561,7 +561,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:24:30 GMT"
+          "Value": "Wed, 15 Jan 2025 10:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -598,7 +598,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:24:30 GMT"
+          "Value": "Wed, 15 Jan 2025 10:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -643,7 +643,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:24:30 GMT"
+          "Value": "Wed, 15 Jan 2025 10:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -668,7 +668,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "877"
+          "Value": "865"
         },
         {
           "Name": "Content-Type",
@@ -676,11 +676,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V+msTiv/fFvGrDCcPAPyeR9M7iAfKhapt4Fd8QacNUc=\""
+          "Value": "\"amhuW6j1B2Tnc4dwS25PTtgvPBCs76XirICFv+omSmI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:24:30 GMT"
+          "Value": "Wed, 15 Jan 2025 10:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -690,12 +690,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V+msTiv/fFvGrDCcPAPyeR9M7iAfKhapt4Fd8QacNUc="
+          "Value": "sha256-amhuW6j1B2Tnc4dwS25PTtgvPBCs76XirICFv+omSmI="
         }
       ]
     },
     {
-      "Route": "index.p059xd490i.html",
+      "Route": "index.uifo3kk1v9.html",
       "AssetFile": "D:\\Study_Material\\Islington\\5th_sem\\Application_Development\\CourseWork\\CourseWork\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -705,7 +705,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "877"
+          "Value": "865"
         },
         {
           "Name": "Content-Type",
@@ -713,11 +713,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V+msTiv/fFvGrDCcPAPyeR9M7iAfKhapt4Fd8QacNUc=\""
+          "Value": "\"amhuW6j1B2Tnc4dwS25PTtgvPBCs76XirICFv+omSmI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 16:24:30 GMT"
+          "Value": "Wed, 15 Jan 2025 10:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -727,7 +727,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "p059xd490i"
+          "Value": "uifo3kk1v9"
         },
         {
           "Name": "label",
@@ -735,7 +735,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V+msTiv/fFvGrDCcPAPyeR9M7iAfKhapt4Fd8QacNUc="
+          "Value": "sha256-amhuW6j1B2Tnc4dwS25PTtgvPBCs76XirICFv+omSmI="
         }
       ]
     }

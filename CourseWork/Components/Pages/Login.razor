@@ -1,5 +1,54 @@
-﻿<h3>Index</h3>
+﻿@inject NavigationManager NavManager
+@using System.ComponentModel.DataAnnotations
+@using test.Model
+@using System.Diagnostics;
+
+<div class="login-container">
+    <form @onsubmit:preventDefault @onsubmit="LoginHandel" class="form">
+        <h3 class="form__heading">Login</h3>
+
+        <div>
+            <label class="form__label">Username:</label>
+            <input type="text" @bind="user.Username" class="form__input" placeholder="UserName" />
+        </div>
+        <div>
+            <label class="form__label">Currency:</label>
+            <select class="form__select" @bind="user.Currency">
+                <option value="Dollar">$Dollar</option>
+                <option value="Euro">€Euro</option>
+                <option value="Nrp">Nrp</option>
+            </select>
+        </div>
+        <div>
+            <label class="form__label">Password:</label>
+            <input type="Password" @bind="user.Password" class="form__input" placeholder="Password" />
+        </div>
+        <button type="submit" class="form__button">Login</button>
+    </form>
+</div>
 
 @code {
+    private UserModel user = new();
 
+    private async Task LoginHandel()
+    {
+        try
+        {
+            if (user.Username == "Admin" && user.Password == "Admin")
+            {
+                Debug.WriteLine("Login successful");
+                await Task.Delay(100);
+                NavManager.NavigateTo("/home", true);
+                Debug.WriteLine("Navigation to Home initiated.");
+            }
+            else
+            {
+                Debug.WriteLine("Invalid credentials");
+            }
+        }
+        catch (Exception ex)
+        {
+            Debug.WriteLine($"Exception occurred: {ex.Message}");
+        }
+    }
 }

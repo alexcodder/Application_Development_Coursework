@@ -5,7 +5,7 @@
 //------------------------------------------------------------------------------
 using System;
 
-namespace CourseWork {
+namespace test {
 	#pragma warning disable IDE0002
 	public partial class Resource : _Microsoft.Android.Resource.Designer.ResourceConstant {
 	}

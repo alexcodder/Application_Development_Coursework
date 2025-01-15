@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
+//using BlazorWebAppAuthentication.Components; 
 
-namespace CourseWork
+namespace test
 {
     public static class MauiProgram
     {
@@ -15,10 +16,11 @@ namespace CourseWork
                 });
 
             builder.Services.AddMauiBlazorWebView();
+            //builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme);
 
 #if DEBUG
-    		builder.Services.AddBlazorWebViewDeveloperTools();
-    		builder.Logging.AddDebug();
+            builder.Services.AddBlazorWebViewDeveloperTools();
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();

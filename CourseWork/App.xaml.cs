@@ -1,4 +1,4 @@
-﻿namespace CourseWork
+﻿namespace test
 {
     public partial class App : Application
     {

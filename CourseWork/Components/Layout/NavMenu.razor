@@ -1,0 +1,32 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="Home">TranactionFlow</a>
+    </div>
+</div>
+
+<input type="checkbox" title="Navigation menu" class="navbar-toggler" />
+
+<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="Home">
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="Transactions_Overview">
+                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Transactions Overview
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="Debt_Tracking">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Debt Tracking
+            </NavLink>
+        </div>
+        <div class="nav-item px-4">
+            <NavLink class="nav-link" href="Login">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Log Out
+            </NavLink>
+        </div>
+    </nav>
+</div>
